@@ -1,5 +1,6 @@
-[LeetCode Profile](https://leetcode.com/defolded/)
+Competetive programming enthusiast.
 
-[HackerRank Profile](https://www.hackerrank.com/hailrake04)
 
-[Codeforces Profile](https://codeforces.com/profile/defolded)
+_Links to my profiles:_
+[LeetCode](https://leetcode.com/defolded/), 
+[HackerRank](https://www.hackerrank.com/hailrake04)

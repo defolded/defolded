@@ -1,5 +1,4 @@
-Competetive programming enthusiast.
-
+🚀🚀🚀
 
 _Links to my profiles:_
 [LeetCode](https://leetcode.com/defolded/), 
